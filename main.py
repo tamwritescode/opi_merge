@@ -11,8 +11,8 @@ tamnguyencs25@gmail.com
 # https://geopandas.org/en/stable/docs/user_guide/io.html
 
 # ------ EXPLORING TAX & PROPERTY DATASETS (CSV & GEOJSON) ------
-import pandas as pd
-import geopandas as gpd
+import pandas as pd # type: ignore
+import geopandas as gpd # type: ignore
 import re
 
 tax_df = pd.read_csv('tax_info.csv')
