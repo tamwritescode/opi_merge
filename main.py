@@ -1,5 +1,5 @@
 """
-OPI Data Engineer – Exercise
+Data Engineer – Exercise
 Received on May 5th, 2025 @ 10am est
 Due on May 7th, 2025 @ 10am est
 Tam Nguyen
